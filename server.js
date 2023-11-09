@@ -10,7 +10,7 @@ const io = require('socket.io')(server);
 const fetch = require('node-fetch');
 const path = require('path');
 const openai = new OpenAI({ apiKey: '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' });
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 443;
 
 // Declare the games object
 const games = {};
