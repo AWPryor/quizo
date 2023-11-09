@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is the main character of the original Yu-Gi-Oh series?",
+        "options": ["Jaden Yuki", "Yusei Fudo", "Yugi Moto", "Zexal"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which item does Yugi wear around his neck?",
+        "options": ["Millennium Ring", "Millennium Puzzle", "Millennium Rod", "Millennium Eye"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is Yugi's best friend?",
+        "options": ["Seto Kaiba", "Joey Wheeler", "Maximillion Pegasus", "Marik Ishtar"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What card is Kaiba most known for?",
+        "options": ["Red-Eyes Black Dragon", "Exodia", "Dark Magician", "Blue-Eyes White Dragon"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which character aims to collect all the Millennium Items?",
+        "options": ["Bakura", "Tristan", "Duke Devlin", "Odion"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What's the term used for a quick duel format?",
+        "options": ["Turbo Duel", "Speed Duel", "Fast Duel", "Quick Duel"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which location is the setting for most of the Battle City arc?",
+        "options": ["Kaiba Corp Island", "Domino City", "Duelist Kingdom", "Virtual World"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following cards is not a piece of Exodia?",
+        "options": ["Right Leg of the Forbidden One", "Left Hand of the Forbidden One", "Exodia the Summoned One", "Exodia the Forbidden One"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is the creator of Duel Monsters?",
+        "options": ["Seto Kaiba", "Solomon Moto", "Maximillion Pegasus", "Rebecca Hawkins"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which card allows a player to draw two more cards?",
+        "options": ["Mirror Force", "Dark Hole", "Pot of Greed", "Monster Reborn"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which character uses the Harpie Lady cards?",
+        "options": ["Tea", "Mai Valentine", "Ishizu Ishtar", "Serena"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where does Yugi work in the beginning of the series?",
+        "options": ["Kaiba Corp", "Domino High School", "Kame Game Shop", "Battle City Café"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the Seal of Orichalcos do?",
+        "options": ["Summons a monster", "Takes the loser's soul", "Doubles the user's life points", "Destroys all trap cards"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is known as the 'King of Games'?",
+        "options": ["Joey Wheeler", "Maximillion Pegasus", "Yugi Moto", "Seto Kaiba"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of Joey's sister?",
+        "options": ["Mokuba", "Serena", "Tea", "Serenity"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is Seto Kaiba's younger brother?",
+        "options": ["Dartz", "Bakura", "Marik", "Mokuba"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which monster has a flute card dedicated to summoning it?",
+        "options": ["Lord of D.", "Red-Eyes Black Dragon", "Blue-Eyes White Dragon", "Summoned Skull"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which card can defeat the Winged Dragon of Ra?",
+        "options": ["Dark Magician Girl", "De-Spell", "Blue-Eyes Ultimate Dragon", "Phoenix Mode"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who became the Pharaoh after Atem?",
+        "options": ["Seto", "Aknamkanon", "Shada", "Marik"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the card 'Magic Cylinder' do?",
+        "options": ["Destroys a monster", "Returns a card to the owner's hand", "Reflects an attack", "Prevents trap activation"],
+        "correctAnswer": 2
+    }
+]

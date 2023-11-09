@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who was the first president of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Benjamin Franklin"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What year did World War I start?",
+        "options": ["1912", "1914", "1916", "1918"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which one of these is not a US president?",
+        "options": ["Theodore Roosevelt", "Benjamin Franklin", "John F. Kennedy", "Ronald Reagan"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the US?",
+        "options": ["United Kingdom", "Canada", "France", "Spain"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which amendment provides the freedom of speech?",
+        "options": ["1st Amendment", "2nd Amendment", "5th Amendment", "10th Amendment"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who was the president during the American Civil War?",
+        "options": ["Andrew Jackson", "Theodore Roosevelt", "Abraham Lincoln", "Ulysses S. Grant"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was known as the 'Father of the Constitution'?",
+        "options": ["George Washington", "James Madison", "Thomas Jefferson", "Benjamin Franklin"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What ship carried the Pilgrims to America in 1620?",
+        "options": ["Endeavour", "Discovery", "Mayflower", "Santa Maria"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic?",
+        "options": ["Amelia Earhart", "Bessie Coleman", "Sally Ride", "Valentina Tereshkova"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Where was Martin Luther King Jr. assassinated?",
+        "options": ["Atlanta", "Washington D.C.", "Birmingham", "Memphis"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What was the main reason for the Cold War?",
+        "options": ["Political Differences", "Religious Conflict", "Economic Disputes", "Territorial Claims"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which country launched the first satellite, Sputnik?",
+        "options": ["United States", "Germany", "China", "Soviet Union"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who was the famous nurse during the Crimean War?",
+        "options": ["Helen Keller", "Florence Nightingale", "Marie Curie", "Jane Austen"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "options": ["Vladimir Putin", "Nikita Khrushchev", "Mikhail Gorbachev", "Leonid Brezhnev"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which war was fought between North and South Korea?",
+        "options": ["World War II", "Vietnam War", "Gulf War", "Korean War"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is known as the 'Iron Lady' of politics?",
+        "options": ["Margaret Thatcher", "Indira Gandhi", "Angela Merkel", "Helen Clark"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which explorer is credited with discovering America?",
+        "options": ["Christopher Columbus", "Marco Polo", "Hernán Cortés", "Vasco da Gama"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1910", "1912", "1915", "1918"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the main aim of the Crusades?",
+        "options": ["Trade routes", "Convert to Christianity", "Reclaim Holy Land", "Colonization"],
+        "correctAnswer": 2
+    }
+]

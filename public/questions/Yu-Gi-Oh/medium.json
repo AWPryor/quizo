@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which card does Marik use to control other duelists?",
+        "options": ["Mind Control", "Change of Heart", "Brain Control", "The Mask of Remnants"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What title does Joey earn in the Duelist Kingdom arc?",
+        "options": ["The Chosen One", "Duelist of Destiny", "Flame Swordsman", "The True Duelist"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which monster requires two tributes to summon?",
+        "options": ["Summoned Skull", "Man-Eater Bug", "Sangan", "La Jinn the Mystical Genie of the Lamp"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a 'Gate Guardian' piece?",
+        "options": ["Suijin", "Kazejin", "Sanga of the Thunder", "Thunder Dragon"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the original anime, who was the final opponent Yugi faced?",
+        "options": ["Joey Wheeler", "Seto Kaiba", "Marik Ishtar", "Atem"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which monster has the highest base ATK points without any modifications?",
+        "options": ["Blue-Eyes White Dragon", "Obelisk the Tormentor", "Slifer the Sky Dragon", "The Winged Dragon of Ra"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who gave Joey his Red-Eyes Black Dragon card?",
+        "options": ["Yugi", "Rex Raptor", "Seto Kaiba", "Duke Devlin"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which card did Yugi use to defeat the unstoppable Exodia cards held by Seeker?",
+        "options": ["Mirror Force", "Brain Control", "Chain Destruction", "Multiply"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Bakura's main goal?",
+        "options": ["Becoming the King of Games", "Defeating the Pharaoh", "Collecting all Millennium Items", "Destroying the world"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which character has a crush on Yugi?",
+        "options": ["Mai Valentine", "Serenity Wheeler", "Tea Gardner", "Rebecca Hawkins"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which series introduces Synchro Summoning?",
+        "options": ["Yu-Gi-Oh GX", "Yu-Gi-Oh 5D's", "Yu-Gi-Oh VRAINS", "Yu-Gi-Oh ZEXAL"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Yami mean in Japanese?",
+        "options": ["Light", "Hope", "Duel", "Darkness"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which monster card has a counterpart named 'Kuriboh'?",
+        "options": ["Winged Kuriboh", "Blue-Eyes White Dragon", "Dark Magician", "Relinquished"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is known as the 'Queen of Games'?",
+        "options": ["Ishizu Ishtar", "Mai Valentine", "Tea Gardner", "Rebecca Hawkins"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these is NOT a real Yu-Gi-Oh series?",
+        "options": ["Yu-Gi-Oh R", "Yu-Gi-Oh GX", "Yu-Gi-Oh 7S", "Yu-Gi-Oh 5D's"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What card does Joey use to counteract 'Time Wizard's' effect?",
+        "options": ["Axe Raider", "Baby Dragon", "Aged Warrior", "Thousand Dragon"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is NOT a member of the Big Five in the Virtual World arc?",
+        "options": ["Gansley", "Lector", "Nezbitt", "Rafael"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which character is associated with the 'Cyber Dragon' archetype?",
+        "options": ["Alexis Rhodes", "Chazz Princeton", "Bastion Misawa", "Zane Truesdale"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which series first introduced XYZ summoning?",
+        "options": ["Yu-Gi-Oh 5D's", "Yu-Gi-Oh VRAINS", "Yu-Gi-Oh ZEXAL", "Yu-Gi-Oh GX"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which card can only be summoned by sacrificing the three Egyptian Gods?",
+        "options": ["Holactie the Creator of Light", "The Seal of Orichalcos", "Exodia Necross", "Gate Guardian"],
+        "correctAnswer": 0
+    }
+]

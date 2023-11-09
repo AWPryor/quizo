@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which U.S. president served the shortest term, dying 32 days after his inauguration?",
+        "options": ["William McKinley", "James A. Garfield", "William Henry Harrison", "Zachary Taylor"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the main disease that caused the Black Death in the 14th century?",
+        "options": ["Malaria", "Smallpox", "Tuberculosis", "Bubonic Plague"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following countries was not part of the Axis Powers during World War II?",
+        "options": ["Germany", "Italy", "Soviet Union", "Japan"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which civilization built Machu Picchu in Peru?",
+        "options": ["Aztecs", "Mayans", "Incas", "Olmecs"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the period of profound artistic and intellectual activity in Europe called?",
+        "options": ["Middle Ages", "Renaissance", "Industrial Revolution", "Age of Discovery"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the primary purpose of the Berlin Wall?",
+        "options": ["Trade Barrier", "Keep out invaders", "Separate East and West Berlin", "Monument"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which Egyptian queen was known for her relationship with Roman leaders Julius Caesar and Mark Antony?",
+        "options": ["Nefertiti", "Sheba", "Hatshepsut", "Cleopatra"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "During which dynasty was the Great Wall of China primarily built?",
+        "options": ["Han Dynasty", "Tang Dynasty", "Qing Dynasty", "Ming Dynasty"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What ancient civilization was located between the Tigris and Euphrates rivers?",
+        "options": ["Egyptian", "Sumerian", "Indus Valley", "Hittite"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which historical figure is best known for his role in the Norman Conquest of England?",
+        "options": ["Charlemagne", "William the Conqueror", "Richard the Lionheart", "Edward the Confessor"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Magna Carta was signed in which year?",
+        "options": ["1066", "1215", "1300", "1415"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leader was assassinated on the Ides of March?",
+        "options": ["Nero", "Julius Caesar", "Augustus", "Tiberius"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the primary goal of Marco Polo's travels?",
+        "options": ["Military conquest", "Diplomatic mission", "Trade", "Religious conversion"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which battle marked the defeat of Napoleon Bonaparte?",
+        "options": ["Battle of Trafalgar", "Battle of Waterloo", "Battle of Austerlitz", "Battle of Leipzig"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Hundred Years' War was fought between which two countries?",
+        "options": ["Spain and France", "England and Scotland", "England and France", "Germany and France"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which Roman emperor converted the empire to Christianity?",
+        "options": ["Nero", "Constantine", "Augustus", "Marcus Aurelius"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where did the Renaissance begin?",
+        "options": ["France", "Germany", "Italy", "England"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which explorer first circumnavigated the globe?",
+        "options": ["Christopher Columbus", "Ferdinand Magellan", "Marco Polo", "Sir Francis Drake"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which ancient wonder was located in the city of Babylon?",
+        "options": ["Statue of Zeus", "Temple of Artemis", "Hanging Gardens", "Lighthouse of Alexandria"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the primary writing material in ancient Egypt?",
+        "options": ["Clay", "Silk", "Wood", "Papyrus"],
+        "correctAnswer": 3
+    }
+]

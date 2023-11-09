@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz Game</title>
+</head>
+<body>
+    <h1>Welcome to Quiz Game</h1>
+    <link rel="stylesheet" href="/styles.css">
+
+    <h2>Start a New Game</h2>
+    <form id="form-start-game" action="/create" method="post">
+        <label>
+            Username:
+            <input type="text" name="username">
+        </label>
+        <label>
+            Select Quiz Theme:
+            <select name="theme">
+                <option value="science">Science</option>
+                <option value="history">History</option>
+                <option value="sports">Sports</option>
+                <!-- Add more themes as you develop -->
+            </select>
+        </label>
+        <button type="submit">Create Game</button>
+    </form>
+
+    <h2>Join a Game</h2>
+    <form id="form-join-game" action="/join" method="post">
+        <label>
+            Username:
+            <input type="text" name="username">
+        </label>
+        <label>
+            Game Code:
+            <input type="text" name="gameCode">
+        </label>
+        <button type="submit">Join Game</button>
+    </form>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/main.js"></script>
+</body>
+</html>

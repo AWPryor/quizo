@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of these pirates was formerly a Warlord of the Sea?",
+        "options": ["Charlotte Linlin", "Marshall D. Teach", "Kaido", "Capone Bege"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name of the city submerged under the water, inhabited by fish-men?",
+        "options": ["Dressrosa", "Mariejois", "Fish-Man Island", "Enies Lobby"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who led the Revolutionary Army?",
+        "options": ["Monkey D. Luffy", "Monkey D. Garp", "Monkey D. Dragon", "Portgas D. Ace"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which island is known for its time irregularities due to the presence of a certain bird?",
+        "options": ["Little Garden", "Rusukaina", "Punk Hazard", "Whole Cake Island"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is known as the 'Hero of the Marines'?",
+        "options": ["Admiral Aokiji", "Admiral Akainu", "Admiral Kizaru", "Vice Admiral Garp"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What power does the Ope Ope no Mi grant?",
+        "options": ["Turning invisible", "Creating a surgical room", "Turning into stone", "Manipulating fire"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who was responsible for the death of Portgas D. Ace?",
+        "options": ["Marshall D. Teach", "Admiral Aokiji", "Admiral Akainu", "Admiral Kizaru"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which group has the objective to find and decipher the Rio Poneglyph?",
+        "options": ["Marines", "Big Mom Pirates", "Straw Hat Pirates", "Baroque Works"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which island is known for being in the sky?",
+        "options": ["Fish-Man Island", "Whole Cake Island", "Skypiea", "Drum Island"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was the former captain of the Sun Pirates?",
+        "options": ["Jinbei", "Fisher Tiger", "Hordy Jones", "Arlong"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the real name of 'Mr. 2' or 'Bon Clay'?",
+        "options": ["Bentham", "Daz Bonez", "Galdino", "Buggy"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What type of Devil Fruit did Blackbeard (Marshall D. Teach) initially consume?",
+        "options": ["Logia", "Zoan", "Paramecia", "Mythical Zoan"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following was not one of the CP9 agents?",
+        "options": ["Blueno", "Kalifa", "Bellamy", "Rob Lucci"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of Zoro's master at his dojo in Shimotsuki Village?",
+        "options": ["Koshiro", "Kyoshiro", "Ryuma", "Kin'emon"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which character is famously known for the phrase 'I want to live' during the Enies Lobby arc?",
+        "options": ["Nico Robin", "Tony Tony Chopper", "Boa Hancock", "Nami"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the giant goldfish encountered by the Straw Hat Pirates near Little Garden?",
+        "options": ["Laboon", "Mohmoo", "Wadatsumi", "Island Eater"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What item does Luffy treasure the most?",
+        "options": ["His straw hat", "His sandals", "His vest", "Meat"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the alias of Emporio Ivankov in the Revolutionary Army?",
+        "options": ["Karate Queen", "Miracle Worker", "Okama King", "Queen of Kamabakka"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who is the shipwright of the Donquixote Pirates?",
+        "options": ["Baby 5", "Buffalo", "Trebol", "Senor Pink"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the famous treasure said to be located at the end of the Grand Line?",
+        "options": ["Pluton", "Uranus", "One Piece", "Ancient Weapon"],
+        "correctAnswer": 2
+    }
+]

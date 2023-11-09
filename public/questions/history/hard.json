@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which philosopher wrote 'Meditations'?",
+        "options": ["Aristotle", "Marcus Aurelius", "Immanuel Kant", "Socrates"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who was the last Aztec Emperor?",
+        "options": ["Atahualpa", "Pachacuti", "Montezuma II", "Tizoc"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who coined the term 'Renaissance'?",
+        "options": ["Leonardo da Vinci", "Petrarch", "Erasmus", "Dante Alighieri"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What were the series of religious campaigns against heresy by the Catholic Church in the 13th century called?",
+        "options": ["Crusades", "Reconquista", "Inquisition", "Excommunication"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which Russian Tsar implemented the 'Table of Ranks'?",
+        "options": ["Ivan the Terrible", "Peter the Great", "Nicholas II", "Catherine the Great"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The Battle of Tours in 732 AD was fought between the Franks and which other group?",
+        "options": ["Vikings", "Ostrogoths", "Umayyad Caliphate", "Byzantine Empire"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the first capital of ancient Egypt?",
+        "options": ["Thebes", "Luxor", "Cairo", "Memphis"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which Roman law code served as a basis for later legal systems in many Western countries?",
+        "options": ["Lex Romana", "Twelve Tables", "Digest", "Corpus Juris Civilis"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which caliphate succeeded the Rashidun Caliphate?",
+        "options": ["Abbasid Caliphate", "Fatimid Caliphate", "Ottoman Empire", "Umayyad Caliphate"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The Edict of Nantes, issued in 1598, was a significant document in the history of which country?",
+        "options": ["Germany", "Spain", "England", "France"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which Mughal emperor built the Taj Mahal?",
+        "options": ["Akbar", "Babur", "Aurangzeb", "Shah Jahan"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which Chinese philosophy emphasizes harmony with the natural order?",
+        "options": ["Confucianism", "Daoism (Taoism)", "Legalism", "Buddhism"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the predominant language of the Byzantine Empire?",
+        "options": ["Latin", "Aramaic", "Coptic", "Greek"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who led the Haitian Revolution?",
+        "options": ["Simón Bolívar", "Toussaint Louverture", "José de San Martín", "Miguel Hidalgo"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which Hellenistic kingdom was located in Egypt?",
+        "options": ["Seleucid Empire", "Pergamon", "Macedonia", "Ptolemaic Kingdom"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which sultan ruled the Ottoman Empire at its territorial peak?",
+        "options": ["Mehmed II", "Selim I", "Suleiman the Magnificent", "Osman I"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the political and social system in medieval Europe where nobles were granted use of lands in return for military service?",
+        "options": ["Republicanism", "Vassalage", "Feudalism", "Monarchy"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the name of the network of trade routes that connected the East and West?",
+        "options": ["Orient Express", "Silk Road", "Spice Route", "Trans-Siberian Railway"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who formulated the heliocentric model of the universe, suggesting the Earth revolved around the Sun?",
+        "options": ["Isaac Newton", "Ptolemy", "Galileo Galilei", "Nicolaus Copernicus"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In which city was the world's first stock exchange established in the 17th century?",
+        "options": ["London", "Paris", "Amsterdam", "New York"],
+        "correctAnswer": 2
+    }
+]

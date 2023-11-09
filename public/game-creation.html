@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quiz Game Creation</title>
+    <script src="/socket.io/socket.io.js"></script>
+      <link rel="stylesheet" href="game-creation.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Create a Quiz Game</h1>
+      <p>Host: <span id="player-name"></span></p>
+      <form id="quiz-creation-form">
+        <label for="theme">Quiz Theme:</label>
+  <!-- Replacing the dropdown with a text input box -->
+      <input type="text" name="theme" id="theme-input" placeholder="Enter quiz theme"><br><br>
+
+
+        <label for="difficulty">Difficulty:</label>
+        <select name="difficulty">
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select><br><br>
+        <label>
+          <input type="checkbox" id="public-room-checkbox">
+          Make this room public
+        </label>
+
+        <button type="submit">Create Quiz Game</button>
+      </form>
+      <div id="loading-bar-container" style="display: none;">
+    <div id="loading-bar"></div>
+</div>
+    <!--  <form id="gpt-creation-form">
+          <label for="theme">ChatGPT quiz creation (do not use yet):</label>
+          <input type="text" id="theme" name="theme" placeholder="enter a theme here">
+          <button type="submit">Create Quiz Game</button>
+      </form>
+-->
+    </div>
+    <script src="game-creation.js"></script>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Your usual head content here -->
+    <!-- Don't forget to include the socket.io client script if you haven't already -->
+    <link rel="stylesheet" href="style2.css">
+    <script src="/socket.io/socket.io.js"></script>
+</head>
+
+<body id="body">
+
+    <h1 id="question"></h1>
+    <div id="options"></div>
+
+    <!-- Player List -->
+    <ul id="playerList">
+        <!-- Player data will be dynamically added here -->
+    </ul>
+
+    <!-- Theme and Difficulty -->
+    <h2><span id="theme"></span></h2>
+    <h2><span id="difficulty"></span></h2>
+
+    <!-- Results List (initially hidden) -->
+    <div id="resultsList" style="display: none;">
+        <h2>Results:</h2>
+        <ul id="endScreenPlayerList">
+            <!-- Player results will be displayed here -->
+        </ul>
+
+    </div>
+
+
+    <!-- Your scripts -->
+    <button id="showPlayerList">Show Players</button>
+    <script src="/game.js"></script>
+</body>
+
+</html>

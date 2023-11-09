@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <div class="question-section">
+            <h2><%= question.question %></h2>
+            <ul>
+                <% question.options.forEach((option, index) => { %>
+                    <li>
+                        <button onclick="submitAnswer(<%= index %>)"><%= option %></button>
+                    </li>
+                <% }) %>
+            </ul>
+        </div>
+        <div class="score-section">
+            <h3>Scoreboard</h3>
+            <!-- Placeholder for player scores -->
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/main.js"></script>
+    <script>
+        function submitAnswer(index) {
+            socket.emit('answer', { answerIndex: index });
+        }
+    </script>
+</body>
+</html>

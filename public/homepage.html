@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="homepage.css">
+    <title>Game Homepage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body id="body">
+
+    <div class="container">
+        <h1>Welcome to the Game!</h1>
+        <p>Please enter your username to create or join a game:</p>
+        <input type="text" placeholder="Username" id="global-username" required>
+
+        <h2>Create a Game</h2>
+        <p>Create a game with whatever theme you want!</p>
+        <button id="create-game-btn">Create Game</button>
+
+        <hr>
+
+        <h2>Join a Game</h2>
+        <p>Enter a game ID to join an existing private game:</p>
+        <input type="text" placeholder="Room ID (e.g: 1696985475121)" id="join-room-id" required>
+        <button id="join-game-btn">Join Game</button>
+        <h2>Public Room List</h2>
+        <table id="public-room-list">
+            <thead>
+                <tr>
+                    <th>Host</th>
+                    <th>Players</th>
+                    <th>Status</th>
+                    <th>Theme</th>
+                    <th>Difficulty</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Rows will be added dynamically here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

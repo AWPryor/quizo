@@ -1,0 +1,119 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#question {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+}
+
+#options {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#options button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+body {
+  font-family: sans-serif;
+  background-color: #F5F5F5;
+  background-image: url('background.png');  /* <-- This is the new line */
+  background-size: cover;  /* Cover the entire viewport */
+  background-repeat: no-repeat;  /* Do not repeat the image */
+  background-position: center center;  /* Center the image */
+  background-attachment: fixed; /* keep background fixed on scroll */
+}
+
+#options button:hover {
+    background-color: #0056b3;
+}
+
+h2 {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+ul#playerList {
+    list-style-type: none;
+    padding: 0;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+    height: 100vh;
+    overflow-y: auto;
+    box-shadow: -3px 0px 10px rgba(0,0,0,0.1);
+    border-radius: 8px 0px 0px 8px;
+}
+
+.winner {
+    background-color: green;
+}
+
+ul#playerList li {
+    padding: 10px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+h2 > span {
+    font-weight: normal;
+    color: #777;
+}
+
+#theme, #difficulty {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 20px;
+}
+
+#theme {
+    left: 20px;
+}
+
+#difficulty {
+    right: 230px;  /* This is 20px + player list width */
+}
+
+
+/* Mobile styles using media query */
+@media (max-width: 768px) {
+    ul#playerList {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        top: auto;
+        height: 50vh; /* Adjust height as necessary */
+        display: none; /* Hidden by default on mobile */
+    }
+
+    #showPlayerList {
+        display: block;
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        z-index: 1000;
+    }
+}

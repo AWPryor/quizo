@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Who is the captain of the Straw Hat Pirates?",
+        "options": ["Roronoa Zoro", "Nami", "Monkey D. Luffy", "Sanji"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What fruit did Luffy eat to gain his powers?",
+        "options": ["Flare-Flare Fruit", "Chop-Chop Fruit", "Gum-Gum Fruit", "Op-Op Fruit"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which member of the Straw Hat Pirates is a cyborg?",
+        "options": ["Franky", "Brook", "Chopper", "Robin"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the swordsman of the Straw Hat Pirates?",
+        "options": ["Usopp", "Roronoa Zoro", "Jinbei", "Nami"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name of the sea where the Grand Line and the New World are located?",
+        "options": ["All Blue", "East Blue", "Calm Belt", "Red Line"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is Sanji's dream?",
+        "options": ["To draw a map of the world", "To find All Blue", "To become the Pirate King", "To become a great swordsman"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which Straw Hat Pirate dreams of becoming a brave warrior of the sea?",
+        "options": ["Usopp", "Franky", "Brook", "Robin"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the reindeer who can transform thanks to a Devil Fruit?",
+        "options": ["Franky", "Chopper", "Brook", "Robin"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the currency in the world of One Piece?",
+        "options": ["Gold", "Bellies", "Dollars", "Coins"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who is known as the 'Dark King'?",
+        "options": ["Donquixote Doflamingo", "Dracule Mihawk", "Silvers Rayleigh", "Kaido"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of Luffy's brother who has fire-based powers?",
+        "options": ["Ace", "Sabo", "Law", "Buggy"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who gave Luffy his iconic straw hat?",
+        "options": ["Red-Haired Shanks", "Monkey D. Garp", "Portgas D. Ace", "Silvers Rayleigh"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which island is known for its cherry blossoms?",
+        "options": ["Skypiea", "Dressrosa", "Drum Island", "Sabaody Archipelago"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the skeleton musician in the Straw Hat Pirates?",
+        "options": ["Franky", "Jinbei", "Brook", "Usopp"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which crew does Eustass 'Captain' Kid lead?",
+        "options": ["Heart Pirates", "Fire Tank Pirates", "Kid Pirates", "Hawkins Pirates"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of Nami's weapon?",
+        "options": ["Clima-Tact", "Wado Ichimonji", "Kabuto", "Soru Soru no Mi"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the shipwright of the Straw Hat Pirates?",
+        "options": ["Franky", "Chopper", "Robin", "Brook"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which Devil Fruit allows the user to swim?",
+        "options": ["Fish-Fish Fruit", "Swim-Swim Fruit", "Mera Mera no Mi", "None of them"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is the 'Surgeon of Death'?",
+        "options": ["Trafalgar D. Water Law", "Basil Hawkins", "Eustass Kid", "Roronoa Zoro"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the highest bounty ever given to a pirate as of the current information?",
+        "options": ["5 billion berries", "1.5 billion berries", "4 billion berries", "1 billion berries"],
+        "correctAnswer": 0
+    }
+]

@@ -1,0 +1,19 @@
+<div>
+    <h1>Waiting Room</h1>
+    <p>Game Code: <%= gameCode %></p>
+    <p>Theme: <%= theme %></p>
+    <ul id="playerList">
+        <% players.forEach(player => { %>
+            <li><%= player.username %></li>
+        <% }) %>
+    </ul>
+    <% if (isHost) { %>
+      <% if (isHost) { %>
+    <button id="startButton">Start Game</button>
+<% } %>
+
+
+    <% } %>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/main.js"></script>

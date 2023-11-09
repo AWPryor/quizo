@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which character possesses the Will of D. but is not a known member of the Monkey family?",
+        "options": ["Shanks", "Portgas D. Ace", "Kaido", "Jinbei"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which island in the New World is referred to as 'The Star of the Sea'?",
+        "options": ["Dressrosa", "Zou", "Fish-Man Island", "Sabaody Archipelago"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "How many members did the Roger Pirates have when they reached Raftel?",
+        "options": ["11", "20", "28", "34"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is not an Ancient Weapon?",
+        "options": ["Poseidon", "Pluton", "Prometheus", "Uranus"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which pirate was known as the 'Champion'?",
+        "options": ["Bellamy", "Elizabello II", "Jesus Burgess", "Ideo"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the home country of the Germa 66?",
+        "options": ["North Blue", "West Blue", "South Blue", "East Blue"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is known as the 'Dark King'?",
+        "options": ["Rayleigh", "Blackbeard", "Mihawk", "Magellan"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following islands was not affected by the Paramount War's outcome?",
+        "options": ["Fish-Man Island", "Wano", "Dressrosa", "Amazon Lily"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who defeated Charlotte Snack and demoted him from his Sweet Commander position?",
+        "options": ["Monkey D. Luffy", "Trafalgar Law", "Eustass Kid", "Urouge"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What epithet was given to Kozuki Oden?",
+        "options": ["Hour of Legends", "The Dawn", "Toad Oil Salesman", "The One to Open Wano"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the disease that afflicted the residents of the Gray Terminal?",
+        "options": ["Amber Lead Syndrome", "Dance Powder Effect", "Smile Deficiency", "Candy Flu"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which group was created to counter the threat of the Yonko?",
+        "options": ["Marine Rookies", "SWORD", "Seven Warlords of the Sea", "CP0"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What name did Sanji use while undercover in Wano?",
+        "options": ["Sangoro", "Vinsmoke", "Mr. Prince", "Stealth Black"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who is the 'Witching Hour Boy' in Wano?",
+        "options": ["Kozuki Toki", "Trafalgar Law", "Kawamatsu", "Denjiro"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which island did Big Mom and Kaido form their alliance?",
+        "options": ["Whole Cake Island", "Fish-Man Island", "Onigashima", "Udon"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following characters was not imprisoned in Impel Down Level 6?",
+        "options": ["Jinbei", "Crocodile", "Shiki", "Ivankov"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the main ingredient in the drug known as 'Mummy'?",
+        "options": ["Sea Prism Stone", "Smile Fruit", "KYP Gas", "Heaven's Herb"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who was known as the 'Lurking Legend'?",
+        "options": ["Marshall D. Teach", "Kaido", "Rocks D. Xebec", "Im"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the main ability of the Soru Soru no Mi?",
+        "options": ["Bending light", "Manipulating souls", "Creating mochi", "Controlling shadows"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who referred to Luffy as 'The Fifth Emperor'?",
+        "options": ["Monkey D. Garp", "Shanks", "Morgans", "Kizaru"],
+        "correctAnswer": 2
+    }
+]

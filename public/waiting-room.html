@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Waiting Room</title>
+  <link rel="stylesheet" href="style3.css">
+</head>
+<body id="body">
+  <h1>Waiting Room</h1>
+  <p>Welcome, <span id="player-name"></span>!</p>
+  <p>Game ID: <span id="game-id"></span></p>
+  <h2>Theme: <span id="theme"></span></h2>
+  <h2>Difficulty: <span id="difficulty"></span></h2>
+
+  <p>Players:</p>
+  <ul id="player-list"></ul>
+  <button id="start-game-button">Start Game</button>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/waiting-room.js"></script>
+</body>
+</html>

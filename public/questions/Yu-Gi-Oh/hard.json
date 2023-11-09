@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What card did Pegasus use to seal souls?",
+        "options": ["Soul Release", "Toon World", "Mirror Force", "Soul Prison"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which character uses the Seal of Orichalcos, but was not a member of Doma?",
+        "options": ["Joey Wheeler", "Mai Valentine", "Seto Kaiba", "Weevil Underwood"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the manga, which card does Bakura use to send the gang to the Shadow RPG?",
+        "options": ["Monster Reborn", "Change of Heart", "Dark Sanctuary", "Table of Contents"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which character is not associated with the 'Cyber Angel' archetype?",
+        "options": ["Mai Valentine", "Alexis Rhodes", "Ishizu Ishtar", "Sartorius Kumar"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these cards was not used by Yami Marik in his final duel against Yugi?",
+        "options": ["Holding Arms", "Lava Golem", "Gilford the Lightning", "Helpoemer"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which character has a card with a heart piece pendant?",
+        "options": ["Joey Wheeler", "Duke Devlin", "Yugi Mutou", "Tristan Taylor"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which monster's special ability involves flipping a coin multiple times until a tails result is achieved?",
+        "options": ["Time Wizard", "Blowback Dragon", "Gamble", "Barrel Dragon"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What card's effect allows it to gain the attack of monsters sent to the graveyard until the end of the turn?",
+        "options": ["The Winged Dragon of Ra", "Gilgarth", "King of the Swamp", "Satellite Cannon"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is NOT a card in the original 'Exodia' set?",
+        "options": ["Left Leg of the Forbidden One", "Right Arm of the Forbidden One", "Exodia the Summoned One", "Exodia the Forbidden One"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the original Japanese version, what was the penalty for losing a 'Shadow Game'?",
+        "options": ["Memory loss", "Loss of a soul", "Physical harm", "Being banished to the Shadow Realm"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following characters was not a host for Yami Bakura?",
+        "options": ["Seto Kaiba", "Tristan Taylor", "Ryo Bakura", "Marik Ishtar"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the ATK and DEF of the original 'Dark Magician'?",
+        "options": ["3000/1500", "2500/2100", "2000/2500", "2800/2400"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which card was used to defeat Yugi's 'Slifer the Sky Dragon' during his duel with Rafael?",
+        "options": ["Monster Reborn", "Guardian Eatos", "Graceful Charity", "Celestial Sword - Eatos"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which card represents Seto Kaiba's 'soul' card during the Doma Arc?",
+        "options": ["Blue-Eyes Ultimate Dragon", "Obelisk the Tormentor", "Crush Card Virus", "Blue-Eyes White Dragon"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which series first introduced Pendulum Summoning?",
+        "options": ["Yu-Gi-Oh GX", "Yu-Gi-Oh 5D's", "Yu-Gi-Oh VRAINS", "Yu-Gi-Oh ARC-V"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following cards was not part of Joey's deck?",
+        "options": ["Flame Manipulator", "Red-Eyes Black Dragon", "Jinzo", "Alligator's Sword"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the original anime, who first introduces the concept of 'The Seal of Orichalcos'?",
+        "options": ["Weevil Underwood", "Rex Raptor", "Gurimo", "Dartz"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the Battle City arc, which rare card did Espa Roba use?",
+        "options": ["Jinzo", "Time Wizard", "Gate Guardian", "Dark Magician"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who was not one of the Legendary Knights?",
+        "options": ["Knight of Destiny", "Timaeus", "Critias", "Hermos"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which Yu-Gi-Oh spin-off is set in a virtual world and deals with AI?",
+        "options": ["Yu-Gi-Oh GX", "Yu-Gi-Oh 5D's", "Yu-Gi-Oh VRAINS", "Yu-Gi-Oh ZEXAL"],
+        "correctAnswer": 2
+    }
+]
